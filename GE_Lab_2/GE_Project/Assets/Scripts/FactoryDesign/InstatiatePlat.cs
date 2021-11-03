@@ -27,4 +27,10 @@ public class  InstatiatePlat : CommandInterface
             GameObject.Destroy(objectRef);
         }
     }
+    public override string ToString()
+    {
+        return "ObjectInfo:\t" + objectRef.transform.position.x + ":"
+            + objectRef.transform.position.y + ":"
+            + objectRef.transform.position.z + "\t";
+    }
 }

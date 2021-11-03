@@ -9,6 +9,8 @@ public class CommandInvoker : MonoBehaviour
     static List<CommandInterface> commandHistory = new List<CommandInterface>();
     static int counter = 0;
 
+    private bool dirtyflagbool;
+
     public static void AddCommand(CommandInterface command)
     {
         while (commandHistory.Count > counter)
@@ -49,6 +51,23 @@ public class CommandInvoker : MonoBehaviour
                     counter++;
                 }
             }
+        }
+        if (dirtyflagbool == true)
+        {
+            List<string> lines = new List<string>();
+
+            foreach (CommandInterface c in commandHistory)
+            {
+                lines.Add(c.ToString());
+            }
+
+            System.IO.File.WriteAllLines(Application.dataPath + "/SaveFile.txt", lines);
+
+            dirtyflagbool = false;
+        }
+        if (Input.GetKeyDown(KeyCode.F))
+        {
+            dirtyflagbool = true;
         }
     }
 }
