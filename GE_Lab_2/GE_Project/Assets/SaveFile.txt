@@ -1,5 +1,5 @@
-ObjectInfo:	-4.939447:0.005:4.554482	
-ObjectInfo:	-3.00438:0.005:-2.418385	
-ObjectInfo:	3.191257:0.005:-4.351375	
-ObjectInfo:	4.049898:0.005:2.620033	
 ObjectMovement
+ObjectInfo:	-4.832856:0.005:-4.891372	
+ObjectInfo:	-2.02827:0.005:1.0032	
+ObjectInfo:	4.776:0.005:4.304155	
+ObjectInfo:	3.826923:0.005:-4.4984	

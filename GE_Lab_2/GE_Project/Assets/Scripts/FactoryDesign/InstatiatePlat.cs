@@ -27,6 +27,8 @@ public class  InstatiatePlat : CommandInterface
             GameObject.Destroy(objectRef);
         }
     }
+
+    //Assignment 3 DirtyBool in factory
     public override string ToString()
     {
         return "ObjectInfo:\t" + objectRef.transform.position.x + ":"

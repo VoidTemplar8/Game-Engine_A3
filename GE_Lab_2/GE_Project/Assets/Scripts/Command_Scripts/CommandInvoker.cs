@@ -52,6 +52,8 @@ public class CommandInvoker : MonoBehaviour
                 }
             }
         }
+        
+        //Assignment 3 DirtyFlag
         if (dirtyflagbool == true)
         {
             List<string> lines = new List<string>();
