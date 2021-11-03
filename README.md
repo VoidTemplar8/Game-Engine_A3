@@ -5,7 +5,7 @@ Jaden Bhakti – 100696653
 Jonathan Leung – 100746577
 Game description:
 
-Jonathan, used Assignment 2 created alongside Leo and Jaden to create Assignment 3 dirty flag pattern. 
+Jonathan, used Assignment 2 created alongside Leo and Jaden to create Assignment 3 dirty flag pattern. ReadMe, Generally the same as Assignment2.
 
 Players are given the ability to utilize a fully functioning level editor. There are a number of helpful UI elements which allow you to switch camera modes between editor and gameplay, switch between platform types, count the number of times the character jumped, time the playthrough, etc. A couple other added functionality:
 Checkpoints  
