@@ -1,19 +1,23 @@
 ReadMe
 Development team:
-Leo Buono – 100748457
-Jaden Bhakti – 100696653
-Jonathan Leung – 100746577
+Assignment 2: Leo Buono – 100748457
+Assignment 2: Jaden Bhakti – 100696653
+Assignment 3: Jonathan Leung – 100746578
 Game description:
 
+Assignment 3:
 Jonathan, used Assignment 2 created alongside Leo and Jaden to create Assignment 3 dirty flag pattern. ReadMe, Generally the same as Assignment2.
+After placing platforms, press F to save onto a text file. Text file can not be used to place platforms as of this time of writing. Was planning to use this as a save mechanism. 
 
+Assignment 2:
 Players are given the ability to utilize a fully functioning level editor. There are a number of helpful UI elements which allow you to switch camera modes between editor and gameplay, switch between platform types, count the number of times the character jumped, time the playthrough, etc. A couple other added functionality:
 Checkpoints  
 Ending platforms which will reset the timer  
 WASD and Space player movement   
+
+
 Screenshots:  
- 
- 
+ (from Assignment 2)
  
  ![Alt Text](https://cdn.discordapp.com/attachments/900747883698061342/902376882291503104/unknown.png)
  ![Alt Text](https://cdn.discordapp.com/attachments/900747883698061342/902384877729640448/unknown.png)
@@ -24,10 +28,10 @@ Screenshots:
 
 
 
-Link to video: 
+Link to video: https://youtu.be/y_6HoRK5F6I
 
-UML diagram:  
- ![Alt Text](https://cdn.discordapp.com/attachments/900747883698061342/902393845961093241/unknown.png)
+UML diagram Assignment 3 version:  
+ ![Alt Text](https://cdn.discordapp.com/attachments/421780073860038657/905571357025255514/unknown.png)
 
 
 
