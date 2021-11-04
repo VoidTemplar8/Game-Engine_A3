@@ -8,6 +8,7 @@ Game description:
 Assignment 3:
 Jonathan, used Assignment 2 created alongside Leo and Jaden to create Assignment 3 dirty flag pattern. ReadMe, Generally the same as Assignment2.
 After placing platforms, press F to save onto a text file. Text file can not be used to place platforms as of this time of writing. Was planning to use this as a save mechanism. 
+Cannot get an executable either due to some errors. says dll cannot be found. No build available. 
 
 Assignment 2:
 Players are given the ability to utilize a fully functioning level editor. There are a number of helpful UI elements which allow you to switch camera modes between editor and gameplay, switch between platform types, count the number of times the character jumped, time the playthrough, etc. A couple other added functionality:
